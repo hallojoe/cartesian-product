@@ -1,0 +1,31 @@
+{
+  "name": "@casko/cartesian-product",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": ["index.js", "index.d.ts"],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "cartesian",
+    "cartesian product"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallojoe/cartesian-product.git"
+  },
+  "author": "casper korsgaard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hallojoe/cartesian-product/issues"
+  },
+  "homepage": "https://github.com/hallojoe/cartesian-product#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2"
+  }
+}
